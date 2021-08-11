@@ -20,7 +20,7 @@
   <img align="center" alt="Lobato-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lobato-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Lobato-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Lobato-yoda" src="https://discord.com/channels/875139460164100157/875139460164100160/875139512681005126">
+  <img align="right" height="120em" alt="Lobato-yoda" src="https://media.giphy.com/media/MDs5sQsX9LjscxOl8y/giphy.gif">
 </div>
   
 ##
