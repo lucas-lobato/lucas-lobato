@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Lobato 👋
 
-- 🌱 Estudando back-end e data science
+- 🌱 Data Engeneer
 - 📫 Contate-me no email: lucaslobato1999@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Sigo o padrão de ser um programador fã de Star Wars
